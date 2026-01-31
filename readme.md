@@ -8,6 +8,11 @@ We've given you both a frontend and backend to play around with and where you go
 
 Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
 
+## 🚀 Quick Start
+
+**New to this project?** Check out the [**Getting Started Guide**](GETTING_STARTED.md) for detailed setup instructions, project structure overview, and common development tasks.
+
+
 ### Run Options
 
 [![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=lightgrey&logo=github)](https://codespaces.new/github/dotnet-codespaces)
